@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:013047_0000_0F95338CAE335CB0"/>
-            <pb facs="tcp:013047_0001_0F95338D6CD226D0"/>
+            <pb facs="unknown:013047_0000_0F95338CAE335CB0"/>
+            <pb facs="unknown:013047_0001_0F95338D6CD226D0"/>
             <p>THE TRIAL OF THE REVEREND JOHN ALLEN, Taken <hi>exact</hi> from the Proceedings on the KING's Commiſſion of the Peace, Oyer and Terminer, and Goal-Delivery for the City of LONDON. Held at JUSTICE-HALL in the OLD-BAILEY, On <hi>Thurſday</hi> the 12th, <hi>Friday</hi> the 13th, <hi>Saturday</hi> the 14th, <hi>Monday</hi> the 16th, and <hi>Tueſday</hi> the 17th of JANUARY, 1769.</p>
             <p>(PUBLISHED at the Requeſt of Many.)</p>
             <p>
@@ -124,7 +124,8 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:013047_0002_0F95338E2EFE9808" rendition="simple:additions"/>
+            <pb facs="unknown:013047_0002_0F95338E2EFE9808"
+                rendition="simple:additions"/>
             <head>TRIAL &amp;c.</head>
             <div type="indictment">
                <p>
@@ -153,7 +154,7 @@ And for uttering the ſame, with intent to <gap reason="illegible: indecipherabl
                   </gap> the ſaid Thomas Little, well know<g ref="char:EOLhyphen"/>ing the ſame to be forged, <hi>Dec.</hi> 7 h.</p>
             </div>
             <div type="testimony">
-               <pb n="6" facs="tcp:013047_0003_0F95338EEBD730B8"/>
+               <pb n="6" facs="unknown:013047_0003_0F95338EEBD730B8"/>
                <sp>
                   <speaker>Thomas Little.</speaker>
                   <p>I am a Carpenter, and live in Oxford Chapple-Court. On the 6th of De<g ref="char:EOLhyphen"/>cember laſt, the Priſoner came to me, and aſked me if I had not given a note, payable to Iſaac Levi, or order? I ſaid I had, and that I was defrauded out of it, and till it become due I ſhould not pay it. I ſaid I was very buſy then, but would meet him any where the next day. We appointed to meet at the Valiant Trooper in Oxford-Road. The next morning I went, and acquainted Mr. Hall with it, and told him I had one of my notes come back again that I had been defrauded out of, and begged he would go along with me to meet this perſon. We went and met the priſoner, and after having pleaded poverty, telling him I had been de<g ref="char:EOLhyphen"/>frauded out of it, he deſired us to go out and conſult between ourſelves what I would give him: we went out, and agreed for me to give him five guineas.</p>
@@ -165,7 +166,7 @@ And for uttering the ſame, with intent to <gap reason="illegible: indecipherabl
                <sp>
                   <speaker>Littel.</speaker>
                   <p>He ſaid he had given the full value for it, we told him, when we returned to him I would give him five pounds; he ſaid that it was but little more than two ſhillings in the pound The note was dated the 10th of Oct. 1768, for 50l. Some more words paſt be<g ref="char:EOLhyphen"/>tween us: he ſaid he was going out of town, and that that note kept him in town longer
-<pb n="7" facs="tcp:013047_0004_0F95338FACB3B1F0"/>
+<pb n="7" facs="unknown:013047_0004_0F95338FACB3B1F0"/>
 than he ſhould have done, and ſaid, I muſt make it up ſeven guineas againſt Friday night Some time after he conſented to take five guineas.</p>
                </sp>
                <sp>
@@ -185,7 +186,7 @@ than he ſhould have done, and ſaid, I muſt make it up ſeven guineas againſt
                <sp>
                   <speaker>Little.</speaker>
                   <p>I was defrauded out of two 50l. notes by a Jew. I had occaſion for money, and I
-<pb n="8" facs="tcp:013047_0005_0F9533918B761118"/>
+<pb n="8" facs="unknown:013047_0005_0F9533918B761118"/>
 gave a Jew two 50l. notes, and he was to bring me the money next morning, but he kept the notes, and never brought the money. One was dated the 10th of October, four months after date, the ſame as this, and the other ſix months after date. The Jew is now in the King's Bench Priſon. The Priſoner told me one of the notes was paid away, and the other might be recovered he believed.</p>
                </sp>
                <sp>
@@ -207,16 +208,16 @@ gave a Jew two 50l. notes, and he was to bring me the money next morning, but he
                <sp>
                   <speaker>John Hall.</speaker>
                   <p>I am a carpenter. On the 7th of December Mr. Little came to my houſe, and told me a gentleman had come to his houſe with one of his 50l. notes that he had been defrauded of, and that he was to meet him the next day at the valiant trooper in Oxford Road, and he deſired me to go along with him; which I did. When we came there, Mr. Lit<g ref="char:EOLhyphen"/>tle went in ſome time before me, may be two ſeconds; I followed after and ſaw him and the priſoner in a private room together, the priſo<g ref="char:EOLhyphen"/>ner
-<pb n="9" facs="tcp:013047_0006_0F953391F0ED6BD0"/>
+<pb n="9" facs="unknown:013047_0006_0F953391F0ED6BD0"/>
 had got a pine of beer; the priſoner looked at me. Mr. Little ſaid, This is one of my friends, it is no ſecret, he knows I have been defrauded out of theſe note. They began talk<g ref="char:EOLhyphen"/>ing about the notes. Mr Little aſked him whether he had given credit for the note or not; the priſoner ſaid he had not, but that Le<g ref="char:EOLhyphen"/>vi had goods of him for it; and he ſaid he wondered that Mr Little was ſo ſimple as to give the note to the Jew, and bid him be careful always to look upon a Jew as a thief: he farther ſaid, Levi told him it was as good as a Bank note. I ſpoke to the priſoner, and told him Mr Little was a poor man, and not able to pay the notes when they became due, nor neither would he. The priſoner ſaid, that when they became due, Mr. Little muſt be arreſted for them, and he muſt bail it, and it would coſt him 4 or 5 and 20l. to defend it, and then he was to throw it into chancery, before he could recover the note, and told us of a man that was defrauded out of ſome notes as Mr. Little was, one Mr. Taylor in Bond-Street, by a Jew, and he was adviſed to take half the value of the note He told Mr. Little he did not chuſe to hurt him, that it was bet<g ref="char:EOLhyphen"/>ter for him to loſe paſt of it, than all, and de<g ref="char:EOLhyphen"/>ſired him to go out with me and conſult both together what he could afford to give. Mr.
-<pb n="10" facs="tcp:013047_0007_0F953392AC5CC020"/>
+<pb n="10" facs="unknown:013047_0007_0F953392AC5CC020"/>
 Little and I went out together into the tap<g ref="char:EOLhyphen"/>room. I told Mr. Little to offer him five gui<g ref="char:EOLhyphen"/>neas: Mr. Little ſaid, he could not for ſhame offer him ſo little as five guineas: I ſaid you may offer it, you may advance, if that will not do: We went in, he offered the priſoner five guineas: The priſoner ſaid he could not take that, that was little more than two ſhillings in the pound; then there was a good deal more talk about it: The priſoner deſired Little ne<g ref="char:EOLhyphen"/>ver to truſt a Jew any more: Then he ſaid Mr. Little muſt give him ſeven guineas. Mr. Little ſaid if he could ſtay till Monday or Tueſ<g ref="char:EOLhyphen"/>day he ſhould have ſeven guineas, but he had not ſo much then by him. I ſent to a friend of Mr. Little's to borrow ſix guineas: That friend came into the room and lent him the money; the priſoner agreed to take five guineas, ſaying, he better take that, than go to law; and ſaid the Jew was in the King's Bench: The five gui<g ref="char:EOLhyphen"/>neas were laid down upon the table; the pri<g ref="char:EOLhyphen"/>ſoner had a pocket-book in his hand, out of which he took the note, and gave it to me, and laid his hand upon the five guineas: This is the note, <hi>(produced in court)</hi> I took it up, and ſaid this note is not indorſed; how came you by this note not indorſed? Said he, I would not give a halfpenny for an indorſement of a Jew, I would not give a farthing for that: he deſi<g ref="char:EOLhyphen"/>red
-<pb n="11" facs="tcp:013047_0008_0F953393BB93E460"/>
+<pb n="11" facs="unknown:013047_0008_0F953393BB93E460"/>
 us always to look forwards, and not back<g ref="char:EOLhyphen"/>wards: I ſaid to Mr. Little, take care that it is your own note: He ſaid, it was not his note: I ſaid, Mr. Little before you judge too raſh, what kind of paper did you write your notes on? He ſaid he bought a half-pennyworth ſheet of writing paper, and wrote two 50l. notes; and the 100l. note likewiſe was wrote on the ſame ſheet of paper: I ſaid this is a forged note, this was torn out of a memorandum-book, for here is the ilot-holes where it had been ſtitch'd through: The priſoner looking at me, ſaid, A forged note! If the rogue has paid me a forged note, i'll proſecute him, let it coſt me what it will: I will go immediately to the King's Bench and have him taken up: I ſaid to the priſoner, I took you to be a gentleman, and a very human man, but I am afraid you are a villain: I put the note in my pocket-book, and Mr. Little took up the five guineas: Mr. Little ſaid he ſhould go before a magiſtrate: Then the priſoner put his hand to the waiſt<g ref="char:EOLhyphen"/>band of his breeches, and turned as if going to the door to make water: I followed him to the door: As ſoon as he got to the door he pulled his cloths on one ſide and ſet a runnng: I fol<g ref="char:EOLhyphen"/>lowed him a good many yards, perhaps two or three hundred yards; at laſt he turned up Chap<g ref="char:EOLhyphen"/>el-court, where Mr Little lives, and run up
-<pb n="12" facs="tcp:013047_0009_0F953386B466A858"/>
+<pb n="12" facs="unknown:013047_0009_0F953386B466A858"/>
 into a corner, and offered to dodge me: I catched hold of him, when he was all of a tremble, and begged I would let him go home, and he would tell me how he came by the note: I told him he ſhould not go home; that I ſhould take him to the houſe where he came from; and then he might tell Mr. Little how he came by it.</p>
                   <p>Going along, he told me he found it juſt at the bottom of Ludgate-hill, by the Fleet market, in a memorandum-book: I ſaid, Then why did you not tell us of it when you came? He ſaid, neceſſity obliged him to do as he had, he wan<g ref="char:EOLhyphen"/>ted a few guineas to carry him abroad: I took him into the houſe again; and deſired Mr. Little to go into the tap room, and I would ſpeak to the priſoner: Then I ſaid, he had bet<g ref="char:EOLhyphen"/>ter confeſs, if he had any concern with the Jew, as it would be better for him: He ſaid, he did not know Levi the Jew; and that he actually found the note wrote in a memorandum-book, and begged I would let him go: I ſaid, it was not in my power; I would aſk Mr. Little, if he would let me go, on condition he would aſſiſt me in getting my notes. He clapt his hand to his heart, and ſaid, As he hoped to be ſaved, he would come the next day. He gave me direction where to find him; which was, to enquire of Mr. Williams, Linnen-draper, in
-<pb n="13" facs="tcp:013047_0010_0F9533942DCEE208"/>
+<pb n="13" facs="unknown:013047_0010_0F9533942DCEE208"/>
 Ratcliff-high-way. I called Mr. Little in, and aſked him if he would let him go; he ſaid he would not. We took him before major Spin<g ref="char:EOLhyphen"/>nage. When he came there, he would not tell his name, but denied that to be his name which he had wrote on the paper. When Mr. Little came to me, he told me, a gentleman that came fifteen miles out of London, had brought one of his notes.</p>
                </sp>
             </div>
@@ -263,7 +264,7 @@ Ratcliff-high-way. I called Mr. Little in, and aſked him if he would let him go
                   <p>I am a maſter Carpenter.</p>
                </sp>
                <sp>
-                  <pb n="14" facs="tcp:013047_0011_0F953394EE216320"/>
+                  <pb n="14" facs="unknown:013047_0011_0F953394EE216320"/>
                   <speaker>Q.</speaker>
                   <p>Is Mr. Little apt to deal in theſe ſort of papers?</p>
                </sp>
@@ -299,13 +300,13 @@ Ratcliff-high-way. I called Mr. Little in, and aſked him if he would let him go
             <div type="testimony">
                <head>Priſoners Defence.</head>
                <p>On December the 7th, coming down Lud<g ref="char:EOLhyphen"/>gate-hill, at the corner of the Fleet-Market, I found a penny memorandum-book. It was doubled, and almoſt to pieces. I took it up in my hand, and went as far as Mr. Garaway's, a friend of mine that keeps a ſeed-ſhop in Fleet-ſtreet, with the book in my hand. I ſaid to
-<pb n="15" facs="tcp:013047_0012_0F953397863A5470"/>
+<pb n="15" facs="unknown:013047_0012_0F953397863A5470"/>
 Mrs. Garaway, Madam, I have picked up a memorandum-book; what is in it I can't tell; I have juſt opened it; whether they are bank notes, or what. There is ſomething in it. I preſented it to her, after I had read this note. She took the book and opened it, and looked at it read it, and gave it me again. After that Mr. Garaway came in; he likewiſe ſaw the book and read the note: after that I put it in my pocket, and finding at the bottom it was directed to Thomas Little, Oxford-Chappel-Court, Cavendiſh-Square, I thought I would go and aſk him if he had real value for that note. It was made payable to Iſaac Levi, whom I never ſaw. I looked upon it that it was the property of Iſaac Levi, and not Mr. Little; therefore I thought in juſtice it ſhould be returned to Thomas Little again, if he had not received value for it, and leaving it to his generoſity to give me what he plea<g ref="char:EOLhyphen"/>ſed. I went to Mr. Little on the 12th of De<g ref="char:EOLhyphen"/>cember, and knocking at the door, he came himſelf. I aſked him his name, and if he had not given a note of hand to Iſaac Levi, a Jew, for 50l. value, payable at four months? he ſaid, I have. I ſaid, Sir, have you had value for it? He ſaid he had not; he told me he had given two notes, and had had no value for them, and that he would not pay them
-<pb n="16" facs="tcp:013047_0013_0F953397ECE8B828"/>
+<pb n="16" facs="unknown:013047_0013_0F953397ECE8B828"/>
 when they became due. I ſaid, You need not make yourſelf uneaſy about it. He ſaid he was buſy in chriſtening a child, and deſired me to call in the evening; and accord<g ref="char:EOLhyphen"/>ingly I went. I pauſed in my own mind, that as he had not received value for it, I would return the note; leaving it to him to give me what he pleaſed. When I came, ſome conver<g ref="char:EOLhyphen"/>ſation aroſe: he ſaid he ſhould not pay it, for he had not had value. I believe I did ſay, That might not make any eſſential difference, for whoever has given value for it, will de<g ref="char:EOLhyphen"/>mand the money of you. He ſaid he ſhould not pay. I ſaid, very well. Upon this I did imagine there would be nothing more ſaid. He ſaid, Sir, you don't ſeem willing to part with it, what will you have for it? I ſaid, How could he think I ſhould take any thing for a note not endorſed? I ſaid, I do not aſk a farthing, I leave it to you. He ſaid, I ſhould be willing to give you ſomething for it. Upon which he ſaid, what will you have? I ſaid, I ſhall leave it to you. Then they both whiſpered. I ſaid, Do not whiſper, as though you was afraid of ſaying ſomething be<g ref="char:EOLhyphen"/>fore me; you are at liberty to go out and agree between yourſelves, and that ſhall be the thing. They went out, and came in again<g ref="char:punc">▪</g> Then Mr. Hall agreed that Mr. Little ſhould give
-<pb n="17" facs="tcp:013047_0014_0F953398B4528FD0"/>
+<pb n="17" facs="unknown:013047_0014_0F953398B4528FD0"/>
 me five guineas, believing it to be Mr. Lit<g ref="char:EOLhyphen"/>tle's own note. I believe I might ſay, that was very little for a 50l. note I ſaid I ſhall leave it to you intirely. I never inſiſted on any more than what they propoſed to give me. Upon which they propoſed then five guineas afterwards. They came to a determination to raiſe the five guineas, and five guineas were laid down upon the table. Then they aſked me, If I had the note? I took it out of my pocket-book. Mr Little ſaid, If it is my note, it is wrote Thomas. I then reply'd, Mr. Lit<g ref="char:EOLhyphen"/>tle, it is, and I believe it is your's. He ſaid, it is dated October 10th, believing it to be his own note. I laid it down and put my hand upon one of the guineas. Said Mr. Hall to Mr. Little, are you ſure this is your own hand writing? Mr. Little then ſaid, his note was wrote upon a longer piece of paper. I then declared that I found it afterwards. They be<g ref="char:EOLhyphen"/>gan to uſe me very roughly. My ſpirit was up, and inſtead of owning my name, when they ſaid it was a forged note, I was in a conſterna<g ref="char:EOLhyphen"/>tion about its falling into my hands, and wrote Williams on that paper. The diſpute roſe pretty high, and they called names: I reſent<g ref="char:EOLhyphen"/>ed it, and upon that conſideration I did not tell them where I lived; neither did I tell them my name that night. If I ſaid any thing
-<pb n="18" facs="tcp:013047_0015_0F9533996C097FA0"/>
+<pb n="18" facs="unknown:013047_0015_0F9533996C097FA0"/>
 about ſeven guineas, it was leaving it to his generoſity to give what he pleaſed. I found words aroſe ſo high, that I expected they would terminate in blows; and ſo when I was out of the houſe I walked off. I am a diſſent<g ref="char:EOLhyphen"/>ing miniſter, and my employ that of a ſchool<g ref="char:EOLhyphen"/>maſter, and live in Virginia-Street.</p>
             </div>
             <div type="testimony">
@@ -347,7 +348,7 @@ about ſeven guineas, it was leaving it to his generoſity to give what he plea�
                   <p>I believe I ſhould. <hi>(She takes the note into her hand.)</hi> This is ſomething like it.</p>
                </sp>
                <sp>
-                  <pb n="19" facs="tcp:013047_0016_0F95339A2C239750"/>
+                  <pb n="19" facs="unknown:013047_0016_0F95339A2C239750"/>
                   <speaker>Q.</speaker>
                   <p>When did he bring that book to your houſe?</p>
                </sp>
@@ -376,7 +377,7 @@ about ſeven guineas, it was leaving it to his generoſity to give what he plea�
                   <p>I am not come to his cha<g ref="char:EOLhyphen"/>racter. I heard Mr. Hall ſay, he believed the note was not Mr. Allen's hand-writing.</p>
                </sp>
                <sp>
-                  <pb n="20" facs="tcp:013047_0017_0F95339AED0BE410"/>
+                  <pb n="20" facs="unknown:013047_0017_0F95339AED0BE410"/>
                   <speaker>Richard Davis.</speaker>
                   <p>I come only in reſpect to Mr. Allen's hand-writing. This is not his hand-writing.</p>
                </sp>
